@@ -3,7 +3,7 @@
 // これはコメントアウトです
 // コメントアウトはプログラムとして認識されず自由に書くことができます。
 
-echo "Hello World！\n";
+echo "= love！\n";
 
 // 変数を宣言
 // https://www.tohoho-web.com/php/variables.html#variables
